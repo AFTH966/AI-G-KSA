@@ -1,7 +1,10 @@
 {
   "background_color": "#ffffff",
   "dir": "ltr",
+  "display": "standalone",
   "name": "AI-G KSA GAMING",
+  "orientation": "any",
+  "scope": "/",
   "short_name": "AI-G GAMING",
   "start_url": "/",
   "theme_color": "#ffffff",
